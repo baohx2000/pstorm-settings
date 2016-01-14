@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="apiworker" type="PHP" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
+      <mapping ext="erb" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
