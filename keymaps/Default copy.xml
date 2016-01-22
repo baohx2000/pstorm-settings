@@ -2,6 +2,10 @@
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="Debug" />
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
