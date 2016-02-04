@@ -157,6 +157,6 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" version="?" last-modified="0" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" version="4.2.1" last-modified="1444756490000" />
   </component>
 </application>
