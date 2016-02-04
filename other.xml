@@ -150,6 +150,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/airbnb.json" />
+  </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="" />
     <option name="ITN_PASSWORD_CRYPT" value="" />
