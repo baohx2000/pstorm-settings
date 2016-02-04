@@ -156,4 +156,7 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" version="?" last-modified="0" />
+  </component>
 </application>
