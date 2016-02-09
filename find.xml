@@ -4,8 +4,10 @@
     <option name="customScope" value="File '/Users/gordon/build/hotelsugogo/backend/vendor/apitude/apitude/src/Email/EmailService.php'" />
     <option name="defaultScopeName" value="File '/Users/gordon/build/hotelsugogo/backend/vendor/apitude/apitude/src/Email/EmailService.php'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/gordon/build/hotelsugogo/backend/vendor/apitude/apitude/src/Email/EmailService.php'" />
   </component>
 </application>
