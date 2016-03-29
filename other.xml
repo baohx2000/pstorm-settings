@@ -159,6 +159,32 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.6.0/bin/node">
+      <version-cache version="5.6.0" last-modified="1455034589000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.5.0/bin/node">
+      <version-cache version="5.5.0" last-modified="1453338062000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.0.0/bin/node">
+      <version-cache version="5.0.0" last-modified="1446157829000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.3.1/bin/node">
+      <version-cache version="4.3.1" last-modified="1455666390000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node">
+      <version-cache version="4.2.1" last-modified="1444756490000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.1.1/bin/node">
+      <version-cache version="4.1.1" last-modified="1442967956000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.7/bin/node">
+      <version-cache version="0.12.7" last-modified="1436483590000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/0.10.33/bin/node">
+      <version-cache version="0.10.33" last-modified="1415665742000" />
+    </local-interpreter>
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.1/bin/node" version="4.2.1" last-modified="1444756490000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.5.0/bin/node" version="5.5.0" last-modified="1453338062000" />
