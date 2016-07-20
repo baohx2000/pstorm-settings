@@ -5,6 +5,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
+      <mapping ext="legal-displayed" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
