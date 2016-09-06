@@ -8,7 +8,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="search.everywhere.configurations" value="false" />
-    <entry key="search.everywhere.actions" value="false" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
