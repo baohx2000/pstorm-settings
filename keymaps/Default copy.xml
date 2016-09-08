@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="AssociateWithFileType">
+    <keyboard-shortcut first-keystroke="ctrl meta f1" />
+  </action>
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
