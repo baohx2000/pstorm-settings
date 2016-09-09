@@ -5,6 +5,7 @@
       <mapping ext="dockerfile" type="Docker file" />
       <mapping pattern="apiworker" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
