@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile" type="Docker file" />
       <mapping pattern="docker-compose" type="Docker file" />
       <mapping ext="dockerfile" type="Docker file" />
+      <mapping pattern="init_sqlite" type="PHP" />
       <mapping pattern="apiworker" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
