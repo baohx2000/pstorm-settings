@@ -4,6 +4,7 @@
       <mapping pattern="apiworker" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
       <mapping pattern="init_sqlite" type="PHP" />
+      <mapping pattern="add-client" type="PHP" />
       <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
