@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="apiworker" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
-      <mapping pattern="init_sqlite" type="PHP" />
       <mapping pattern="add-client" type="PHP" />
+      <mapping pattern="init_sqlite" type="PHP" />
       <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
@@ -16,7 +16,6 @@
       <mapping ext="legal-displayed" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="Docker file" />
-      <mapping pattern="Dockerfile" type="Docker file" />
       <mapping pattern="docker-compose" type="Docker file" />
     </extensionMap>
   </component>
