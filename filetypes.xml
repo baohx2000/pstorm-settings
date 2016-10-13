@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="apiworker" type="PHP" />
+      <mapping pattern="account" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
       <mapping pattern="add-client" type="PHP" />
       <mapping pattern="init_sqlite" type="PHP" />
