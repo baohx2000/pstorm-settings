@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="init_sqlite" type="PHP" />
+      <mapping pattern="admin" type="PHP" />
       <mapping pattern="apiworker" type="PHP" />
       <mapping pattern="account" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
       <mapping pattern="add-client" type="PHP" />
-      <mapping pattern="init_sqlite" type="PHP" />
-      <mapping pattern=".ignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".ignore" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
