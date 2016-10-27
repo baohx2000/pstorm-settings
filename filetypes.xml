@@ -5,6 +5,7 @@
       <mapping pattern="admin" type="PHP" />
       <mapping pattern="apiworker" type="PHP" />
       <mapping pattern="account" type="PHP" />
+      <mapping pattern="note" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
       <mapping pattern="add-client" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
