@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping pattern="init_sqlite" type="PHP" />
       <mapping pattern="admin" type="PHP" />
       <mapping pattern="apiworker" type="PHP" />
