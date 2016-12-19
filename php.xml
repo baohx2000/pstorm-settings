@@ -13,15 +13,13 @@
     <interpreters>
       <interpreter home="$USER_HOME$/.phpbrew/php/php-5.6.2/bin/php" id="7243bd3f-3477-446a-93bc-4bf7a579e0e6" name="PHP" debugger_id="php.debugger.XDebug" />
       <interpreter home="$USER_HOME$/.phpbrew/php/php-7.0.5/bin/php" id="cec1e059-3165-4066-97a3-bc084ff669c4" name="PHP7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="docker://docker_authphp:latest//usr/local/bin/php" id="b5ae8c33-6bae-42b0-b1a9-52daa53d3583" name="Remote PHP" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker_authphp:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
+      <interpreter home="docker://docker_authphp:latest//usr/local/bin/php" id="b5ae8c33-6bae-42b0-b1a9-52daa53d3583" name="Remote PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/.phpbrew/php/php-5.6.2/bin/php-cgi" php_cli="$USER_HOME$/.phpbrew/php/php-5.6.2/bin/php" path_separator=":" remote_host="127.0.0.1" version="5.6.2">
+        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/.phpbrew/php/php-5.6.2/bin/php-cgi" php_cli="$USER_HOME$/.phpbrew/php/php-5.6.2/bin/php" path_separator=":" version="5.6.2">
           <additional_php_ini>$USER_HOME$/.phpbrew/php/php-5.6.2/var/db/iconv.ini, /Users/gordon/.phpbrew/php/php-5.6.2/var/db/redis.ini, /Users/gordon/.phpbrew/php/php-5.6.2/var/db/tidy.ini</additional_php_ini>
           <configuration_file>$USER_HOME$/.phpbrew/php/php-5.6.2/etc/php.ini</configuration_file>
           <configuration_options>
