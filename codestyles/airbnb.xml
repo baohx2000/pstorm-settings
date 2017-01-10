@@ -27,6 +27,7 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
