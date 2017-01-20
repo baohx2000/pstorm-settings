@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="docker-compose" type="Docker file" />
       <mapping ext="dockerfile" type="Docker file" />
+      <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping pattern="init_sqlite" type="PHP" />
       <mapping pattern="admin" type="PHP" />
       <mapping pattern="apiworker" type="PHP" />
@@ -10,17 +11,17 @@
       <mapping pattern="note" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
       <mapping pattern="add-client" type="PHP" />
+      <mapping pattern="worker" type="PHP" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="legal-displayed" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
-      <mapping pattern="DockerFile" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
