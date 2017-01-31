@@ -19,10 +19,35 @@
     </option>
   </component>
   <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="ApplyPatch">
-        <PlaceSettings />
-      </entry>
+    <option name="PLACES_MAP$diff_impl">
+      <map>
+        <entry key="ChangesView">
+          <value>
+            <PlaceSettings>
+              <option name="EXPAND_BY_DEFAULT" value="false" />
+            </PlaceSettings>
+          </value>
+        </entry>
+        <entry key="CommitDialog">
+          <value>
+            <PlaceSettings>
+              <option name="EXPAND_BY_DEFAULT" value="false" />
+            </PlaceSettings>
+          </value>
+        </entry>
+        <entry key="Default">
+          <value>
+            <PlaceSettings />
+          </value>
+        </entry>
+        <entry key="Merge">
+          <value>
+            <PlaceSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="a">
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
@@ -34,19 +59,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings>
-          <option name="SHOW_WHITESPACES" value="true" />
-        </PlaceSettings>
-      </entry>
-      <entry key="DirDiff">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Merge">
         <PlaceSettings />
       </entry>
-      <entry key="TestsFiledAssertions">
+      <entry key="Merge">
         <PlaceSettings />
       </entry>
     </option>
