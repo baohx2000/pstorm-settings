@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="docker-compose-mac.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +20,24 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>prod.php</mask>
+      <mask>d</mask>
+      <mask>doc</mask>
+      <mask>docker</mask>
+      <mask>docker-</mask>
+      <mask>docker-c</mask>
+      <mask>docker-co</mask>
+      <mask>docker-com</mask>
+      <mask>docker-comp</mask>
+      <mask>docker-compo</mask>
+      <mask>docker-compos</mask>
+      <mask>docker-compose</mask>
+      <mask>docker-compose.</mask>
+      <mask>docker-compose.y</mask>
+      <mask>docker-compose.yml</mask>
+      <mask>docker-compose-.yml</mask>
+      <mask>docker-compose-m.yml</mask>
+      <mask>docker-compose-ma.yml</mask>
+      <mask>docker-compose-mac.yml</mask>
     </recentFileMasks>
   </component>
 </application>
