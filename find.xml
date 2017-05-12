@@ -7,25 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*InputDefinition.php" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>prod.php</mask>
-      <mask>d</mask>
-      <mask>doc</mask>
-      <mask>docker</mask>
-      <mask>docker-</mask>
-      <mask>docker-c</mask>
-      <mask>docker-co</mask>
-      <mask>docker-com</mask>
       <mask>docker-comp</mask>
       <mask>docker-compo</mask>
       <mask>docker-compos</mask>
@@ -37,6 +20,25 @@
       <mask>docker-compose-m.yml</mask>
       <mask>docker-compose-ma.yml</mask>
       <mask>docker-compose-mac.yml</mask>
+      <mask>*Create</mask>
+      <mask>*Creat</mask>
+      <mask>*Crea</mask>
+      <mask>*Cre</mask>
+      <mask>*Cr</mask>
+      <mask>*C</mask>
+      <mask>*</mask>
+      <mask>*I</mask>
+      <mask>*In</mask>
+      <mask>*Input</mask>
+      <mask>*InputD</mask>
+      <mask>*InputDe</mask>
+      <mask>*InputDef</mask>
+      <mask>*InputDefi</mask>
+      <mask>*InputDefin</mask>
+      <mask>*InputDefini</mask>
+      <mask>*InputDefinition</mask>
+      <mask>*InputDefinition.</mask>
+      <mask>*InputDefinition.php</mask>
     </recentFileMasks>
   </component>
 </application>
