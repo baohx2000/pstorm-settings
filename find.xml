@@ -7,24 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*InputDefinition.php" />
+    <option name="FILE_MASK" value="docker-compose-mac.yml" />
     <recentFileMasks>
-      <mask>docker-comp</mask>
-      <mask>docker-compo</mask>
-      <mask>docker-compos</mask>
-      <mask>docker-compose</mask>
-      <mask>docker-compose.</mask>
-      <mask>docker-compose.y</mask>
-      <mask>docker-compose.yml</mask>
-      <mask>docker-compose-.yml</mask>
-      <mask>docker-compose-m.yml</mask>
-      <mask>docker-compose-ma.yml</mask>
-      <mask>docker-compose-mac.yml</mask>
-      <mask>*Create</mask>
-      <mask>*Creat</mask>
-      <mask>*Crea</mask>
-      <mask>*Cre</mask>
-      <mask>*Cr</mask>
       <mask>*C</mask>
       <mask>*</mask>
       <mask>*I</mask>
@@ -39,6 +23,22 @@
       <mask>*InputDefinition</mask>
       <mask>*InputDefinition.</mask>
       <mask>*InputDefinition.php</mask>
+      <mask>doc</mask>
+      <mask>docke</mask>
+      <mask>docker</mask>
+      <mask>docker-</mask>
+      <mask>docker-c</mask>
+      <mask>docker-comp</mask>
+      <mask>docker-compo</mask>
+      <mask>docker-compos</mask>
+      <mask>docker-compose</mask>
+      <mask>docker-compose-</mask>
+      <mask>docker-compose-m</mask>
+      <mask>docker-compose-ma</mask>
+      <mask>docker-compose-mac</mask>
+      <mask>docker-compose-mac.</mask>
+      <mask>docker-compose-mac.y</mask>
+      <mask>docker-compose-mac.yml</mask>
     </recentFileMasks>
   </component>
 </application>
