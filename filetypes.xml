@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="docker-compose" type="Docker file" />
+      <mapping pattern="DockerFrontend" type="Docker file" />
       <mapping ext="dockerfile" type="Docker file" />
       <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping pattern="note" type="PHP" />
