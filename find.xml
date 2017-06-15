@@ -1,26 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Dispatcher.php" />
     <recentFileMasks>
-      <mask>*C</mask>
-      <mask>*</mask>
-      <mask>*I</mask>
-      <mask>*In</mask>
-      <mask>*Input</mask>
-      <mask>*InputD</mask>
-      <mask>*InputDe</mask>
-      <mask>*InputDef</mask>
-      <mask>*InputDefi</mask>
-      <mask>*InputDefin</mask>
-      <mask>*InputDefini</mask>
       <mask>*InputDefinition</mask>
       <mask>*InputDefinition.</mask>
       <mask>*InputDefinition.php</mask>
@@ -40,6 +28,17 @@
       <mask>docker-compose-mac.</mask>
       <mask>docker-compose-mac.y</mask>
       <mask>docker-compose-mac.yml</mask>
+      <mask>D</mask>
+      <mask>Di</mask>
+      <mask>Dis</mask>
+      <mask>Dispa</mask>
+      <mask>Dispat</mask>
+      <mask>Dispatc</mask>
+      <mask>Dispatch</mask>
+      <mask>Dispatcher</mask>
+      <mask>Dispatcher.</mask>
+      <mask>Dispatcher.php</mask>
+      <mask>*Dispatcher.php</mask>
     </recentFileMasks>
   </component>
 </application>
