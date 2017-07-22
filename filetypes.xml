@@ -8,6 +8,7 @@
       <mapping pattern="note" type="PHP" />
       <mapping pattern="admin" type="PHP" />
       <mapping pattern="add-client" type="PHP" />
+      <mapping pattern="run-sl" type="PHP" />
       <mapping pattern="worker" type="PHP" />
       <mapping pattern="account" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
