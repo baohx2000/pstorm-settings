@@ -166,6 +166,10 @@
           <option name="url" value="https://github.com/garretttaco/learning-recompose" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kenwheeler/apollo-workshop-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/build" />
