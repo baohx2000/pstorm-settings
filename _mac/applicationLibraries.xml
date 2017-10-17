@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="recurly" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.recurly.com_v4_recurly.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.recurly.com_v4_recurly.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
