@@ -15,6 +15,7 @@
       <mapping pattern="add-client" type="PHP" />
       <mapping pattern="ssl" type="PHP" />
       <mapping pattern="worker" type="PHP" />
+      <mapping pattern="migrator" type="PHP" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="storybook" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
