@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="29731" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__fast.appcues.com_29731.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__fast.appcues.com_29731.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="recurly" type="javaScript">
       <properties>
         <sourceFilesUrls>
