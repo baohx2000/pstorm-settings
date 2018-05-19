@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt d" />
   </action>
