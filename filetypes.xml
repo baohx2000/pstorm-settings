@@ -4,22 +4,24 @@
       <mapping pattern="BrainsWorkerDockerfile" type="Dockerfile" />
       <mapping pattern="PHPDockerfile" type="Dockerfile" />
       <mapping pattern="DockerFile" type="Dockerfile" />
-      <mapping pattern="init_sqlite" type="PHP" />
       <mapping pattern="admin" type="PHP" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern="apiworker" type="PHP" />
       <mapping pattern="account" type="PHP" />
+      <mapping pattern="migrator" type="PHP" />
       <mapping pattern="note" type="PHP" />
+      <mapping pattern="init_sqlite" type="PHP" />
       <mapping pattern="run-sl" type="PHP" />
       <mapping pattern="update-users" type="PHP" />
       <mapping pattern="add-client" type="PHP" />
       <mapping pattern="ssl" type="PHP" />
       <mapping pattern="worker" type="PHP" />
-      <mapping pattern="migrator" type="PHP" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="storybook" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
