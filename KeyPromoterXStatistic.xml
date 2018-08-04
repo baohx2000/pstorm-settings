@@ -38,7 +38,7 @@
           <IdeaActionID>Git.Fetch</IdeaActionID>
           <ShortCut>'⌥F'</ShortCut>
           <Description>Fetch</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
